@@ -8,4 +8,4 @@ repos:
 -   repo: https://github.com/KevinChris7/testing-repo
     rev: cf80edb
     hooks:
-    -   id: black 
+    -   id: trailing-whitespace 
