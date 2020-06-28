@@ -9,5 +9,6 @@ repos:
     rev: cf80edb
     hooks:
     -   id: trailing-whitespace
+        additional_dependencies: ['--trusted-host' ,'pypi.org' ,'--trusted-host' ,'files.pythonhosted.org']
 default_language_version:
     python: python3.7
