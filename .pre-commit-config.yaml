@@ -8,6 +8,6 @@ repos:
 -   repo: https://github.com/KevinChris7/testing-repo
     rev: cf80edb
     hooks:
-    -   id: trailing-whitespace 
- default_language_version:
+    -   id: trailing-whitespace
+default_language_version:
     python: python3.7
