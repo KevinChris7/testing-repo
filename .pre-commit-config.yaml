@@ -9,3 +9,5 @@ repos:
     rev: cf80edb
     hooks:
     -   id: trailing-whitespace 
+ default_language_version:
+    python: python3.7
